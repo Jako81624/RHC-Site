@@ -3,4 +3,4 @@ Git page for 'Somerset Day' site
 
 - Additions TBA
 
-PUSH TO DOCUMENTS IF UNSURE PLZ
+PUSH TO DOCUMENTS IF UNSURE PLZ THX
